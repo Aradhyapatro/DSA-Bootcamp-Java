@@ -38,7 +38,7 @@
 - [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
 - [Minimum Absolute Sum Difference](https://leetcode.com/problems/minimum-absolute-sum-difference/)
 - [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
-- [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
+- [X] [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [X] [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
 - [X] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
 - [X] [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
