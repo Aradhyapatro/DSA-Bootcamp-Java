@@ -1,10 +1,10 @@
 # Videos
-- [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
-- [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
-- [Insertion Sort](https://youtu.be/By_5-RRqVeE)
-- [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
-- [Merge Sort](https://youtu.be/iKGAgWdgoRk)
-- [Quick Sort](https://youtu.be/Z8svOqamag8)
+- [X] [Bubble Sort](https://youtu.be/F5MZyqRp_IM)
+- [X] [Selection Sort](https://youtu.be/Nd4SCCIHFWk)
+- [X] [Insertion Sort](https://youtu.be/By_5-RRqVeE)
+- [X] [Cycle Sort](https://www.youtube.com/watch?v=JfinxytTYFQ&list=RDCMUCBGOUQHNNtNGcGzVq5rIXjw&start_radio=1&rv=JfinxytTYFQ&t=2)
+- [X] [Merge Sort](https://youtu.be/iKGAgWdgoRk)
+- [X] [Quick Sort](https://youtu.be/Z8svOqamag8)
 
 # Questions
 
