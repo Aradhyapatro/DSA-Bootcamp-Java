@@ -15,7 +15,7 @@
 - [X] [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/)
 - [X] [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
 - [X] [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
-- [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
+- [X] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
 - [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
