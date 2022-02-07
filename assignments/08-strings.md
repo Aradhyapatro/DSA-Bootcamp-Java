@@ -24,7 +24,7 @@
 - [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
-- [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
+- [X] [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
 - [X] [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/)
 - [X] [Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
