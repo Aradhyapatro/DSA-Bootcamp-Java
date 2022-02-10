@@ -21,7 +21,7 @@
 - [X] [Long Pressed Name](https://leetcode.com/problems/long-pressed-name/)
 - [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
-- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
+- [X] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [X] [Maximum Repeating Substring](https://leetcode.com/problems/maximum-repeating-substring/)
 - [X] [Check if Binary String Has at Most One Segment of Ones](https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)
 - [X] [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)
