@@ -2,7 +2,7 @@
 
 - [X] [Kunal's notes](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/lectures/17-oop/notes)
 - [X] [Object Oriented Paradigms](https://www.geeksforgeeks.org/object-oriented-programming-oops-concept-in-java/) `GFG`
-- [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
+- [X] [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
 - [Constructor chaining in Java](https://www.geeksforgeeks.org/constructor-chaining-java-examples/) `GFG`
 - [Inheritance in Java](https://www.geeksforgeeks.org/inheritance-in-java/) `GFG`
 - [Overriding in Java](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
