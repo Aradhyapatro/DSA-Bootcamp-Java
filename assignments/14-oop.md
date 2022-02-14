@@ -5,7 +5,7 @@
 - [X] [Constructors in Java](https://www.geeksforgeeks.org/constructors-in-java/) `GFG`
 - [X] [Constructor chaining in Java](https://www.geeksforgeeks.org/constructor-chaining-java-examples/) `GFG`
 - [X] [Inheritance in Java](https://www.geeksforgeeks.org/inheritance-in-java/) `GFG`
-- [Overriding in Java](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
+- [X] [Overriding in Java](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
 - [Abstraction in Java](https://www.geeksforgeeks.org/abstraction-in-java-2/) `GFG`
 - [Access modifiers in Java](https://www.geeksforgeeks.org/access-modifiers-java/) `GFG`
 - [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
