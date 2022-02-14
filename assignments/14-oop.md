@@ -8,7 +8,7 @@
 - [X] [Overriding in Java](https://www.geeksforgeeks.org/overriding-in-java/) `GFG`
 - [X] [Abstraction in Java](https://www.geeksforgeeks.org/abstraction-in-java-2/) `GFG`
 - [X] [Access modifiers in Java](https://www.geeksforgeeks.org/access-modifiers-java/) `GFG`
-- [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
+- [X] [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
 - [Need of wrapper classes in Java](https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/) `GFG`
 - [this keyowrd in Java](https://www.javatpoint.com/this-keyword) `Javatpoint`
 - [Important keyowrds in Java inheritance - extends,implements,super,instanceof](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
