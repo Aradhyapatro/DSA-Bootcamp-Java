@@ -35,7 +35,7 @@
 - [Inheritance II](https://www.hackerrank.com/challenges/java-inheritance-2/problem?isFullScreen=true) `HackerRank`
 - [X] [Java Abstract class](https://www.hackerrank.com/challenges/java-abstract-class/problem?isFullScreen=true) `HackerRank`
 - [X] [Interface](https://www.hackerrank.com/challenges/java-interface/problem?isFullScreen=true) `HackerRank`
-- [Method Overriding I](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true) `HackerRank`
+- [X] [Method Overriding I](https://www.hackerrank.com/challenges/java-method-overriding/problem?isFullScreen=true) `HackerRank`
 - [Method Overriding II (Use super keyword)](https://www.hackerrank.com/challenges/java-method-overriding-2-super-keyword/problem?isFullScreen=true) `HackerRank`
 - [Java instanceof keyword](https://www.hackerrank.com/challenges/java-instanceof-keyword/problem?isFullScreen=true) `HackerRank`
 - [Java Iterator](https://www.hackerrank.com/challenges/java-iterator/problem?isFullScreen=true) `HackerRank`
