@@ -14,7 +14,7 @@
 - [X] [Important keyowrds in Java inheritance - extends,implements,super,instanceof](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
 - [X] [Instance initializer block](https://www.javatpoint.com/instance-initializer-block) `Javatpoint`
 - [X] [Dynamic Method Dispatch or Runtime Polymorphism in Java](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/) `GFG`
-- [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
+- [X] [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
 - [Coupling in Java](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
 
 # Interview Questions
