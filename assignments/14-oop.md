@@ -21,7 +21,7 @@
 - [X] [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
 - [X] [Difference between Method Overloading and Method Overriding in Java?](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) `GFG`
 - [X] [Can we declare interface members as private or protected in java8?](https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8) `Tutorialspoint`
-- [Can we override a private or static method in Java?](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
+- [X] [Can we override a private or static method in Java?](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
 - [What is diamond problem in Java?](https://www.javatpoint.com/what-is-diamond-problem-in-java) `Javatpoint`
 - [Can we pass this keyword as argument in a method call?](https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method) `Javatpoint`
 - [Java constructor returns a value, but what?](https://www.javatpoint.com/java-constructor-returns-a-value-but-what) `Javatpoint`
