@@ -11,7 +11,7 @@
 - [X] [Wrapper Classes in Java](https://www.geeksforgeeks.org/wrapper-classes-java/) `GFG`
 - [X] [Need of wrapper classes in Java](https://www.geeksforgeeks.org/need-of-wrapper-classes-in-java/) `GFG`
 - [X] [this keyowrd in Java](https://www.javatpoint.com/this-keyword) `Javatpoint`
-- [Important keyowrds in Java inheritance - extends,implements,super,instanceof](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
+- [X] [Important keyowrds in Java inheritance - extends,implements,super,instanceof](https://www.tutorialspoint.com/java/java_inheritance.htm) `Tutorialspoint`
 - [Instance initializer block](https://www.javatpoint.com/instance-initializer-block) `Javatpoint`
 - [Dynamic Method Dispatch or Runtime Polymorphism in Java](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/) `GFG`
 - [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
