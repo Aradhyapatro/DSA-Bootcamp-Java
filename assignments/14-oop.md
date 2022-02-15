@@ -24,7 +24,7 @@
 - [X] [Can we override a private or static method in Java?](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
 - [X] [What is diamond problem in Java?](https://www.javatpoint.com/what-is-diamond-problem-in-java) `Javatpoint`
 - [X] [Can we pass this keyword as argument in a method call?](https://www.javatpoint.com/this-keyword#:~:text=this%3A%20to%20pass%20as%20an%20argument%20in%20the%20method) `Javatpoint`
-- [Java constructor returns a value, but what?](https://www.javatpoint.com/java-constructor-returns-a-value-but-what) `Javatpoint`
+- [X] [Java constructor returns a value, but what?](https://www.javatpoint.com/java-constructor-returns-a-value-but-what) `Javatpoint`
 - [What is covariant return type?](https://www.javatpoint.com/covariant-return-type) `Javatpoint`
 - [Private classes and singleton classes in Java](https://www.geeksforgeeks.org/private-constructors-and-singleton-classes-in-java/) `GFG`
 - [How to prevent Singleton Pattern from Reflection, Serialization and Cloning?](https://www.geeksforgeeks.org/prevent-singleton-pattern-reflection-serialization-cloning/) `GFG`
