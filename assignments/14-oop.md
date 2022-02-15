@@ -15,7 +15,7 @@
 - [X] [Instance initializer block](https://www.javatpoint.com/instance-initializer-block) `Javatpoint`
 - [X] [Dynamic Method Dispatch or Runtime Polymorphism in Java](https://www.geeksforgeeks.org/dynamic-method-dispatch-runtime-polymorphism-java/) `GFG`
 - [X] [Cohesion in Java](https://www.geeksforgeeks.org/cohesion-in-java/) `GFG`
-- [Coupling in Java](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
+- [X] [Coupling in Java](https://www.geeksforgeeks.org/coupling-in-java/) `GFG`
 
 # Interview Questions
 - [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
