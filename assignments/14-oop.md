@@ -19,7 +19,7 @@
 
 # Interview Questions
 - [X] [Can we declare main() method as private or protected or with no access modifier in java?](https://www.tutorialspoint.com/can-we-declare-main-method-as-private-or-protected-or-with-no-access-modifier-in-java) `Tutorialspoint`
-- [Difference between Method Overloading and Method Overriding in Java?](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) `GFG`
+- [X] [Difference between Method Overloading and Method Overriding in Java?](https://www.geeksforgeeks.org/difference-between-method-overloading-and-method-overriding-in-java/) `GFG`
 - [Can we declare interface members as private or protected in java8?](https://www.tutorialspoint.com/can-we-declare-interface-members-as-private-or-protected-in-java8) `Tutorialspoint`
 - [Can we override a private or static method in Java?](https://www.tutorialspoint.com/can-we-override-a-private-or-static-method-in-java) `Tutorialspoint`
 - [What is diamond problem in Java?](https://www.javatpoint.com/what-is-diamond-problem-in-java) `Javatpoint`
