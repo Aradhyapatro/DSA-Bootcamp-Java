@@ -40,7 +40,7 @@
 - [ Merge In Between Linked Lists](https://leetcode.com/problems/merge-in-between-linked-lists/)`leetcode`
 - [Design Browser History](https://leetcode.com/problems/design-browser-history/)`leetcode`
 - [X] [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/)`leetcode`
-- [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
+- [X] [Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/)`leetcode`
 - [X] [ Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/)`leetcode`
 - [Linked List Random Node](https://leetcode.com/problems/linked-list-random-node/)`leetcode`
 - [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/)`leetcode`
