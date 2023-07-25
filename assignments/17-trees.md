@@ -17,7 +17,7 @@
 - [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) `leetcode`
 - [Find Mode in Binary Search Tree](https://leetcode.com/problems/find-mode-in-binary-search-tree/) `leetcode`
 - [Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/) `leetcode`
-- [X][Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) `leetcode`
 
 ## Medium
 
